@@ -1,4 +1,9 @@
 # 📚 Projeto de Extensão: GoPro  
+
+<p align="center">
+  <img src="./logo.png" alt="Logo GoPro" width="200"/>
+</p>
+
 **Grupo de Extensão em Gestão de Operações, Programação e Pesquisa Operacional**
 
 ---

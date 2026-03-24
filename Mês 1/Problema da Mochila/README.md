@@ -10,55 +10,31 @@ O problema consiste em selecionar um subconjunto de projetos de modo a maximizar
 
 ## 🎯 Enunciado do Problema
 
-Selecionar um subconjunto de projetos que maximize o retorno total, garantindo que as restrições de orçamento e de mão de obra disponíveis não sejam violadas.
+Selecionar um conjunto de projetos de forma a maximizar o retorno total, respeitando as limitações de recursos disponíveis.
 
 ---
 
-## 🧠 Modelo Matemático
+## 🧠 Descrição do Problema
 
-### Variáveis de Decisão
+O problema consiste em decidir quais projetos devem ser selecionados dentre um conjunto de alternativas disponíveis.
 
+Cada projeto possui:
+- um valor de retorno (benefício);  
+- um consumo de recursos, como capital e mão de obra.
 
+Os recursos disponíveis são limitados, ou seja:
+- existe um orçamento máximo que não pode ser ultrapassado;  
+- há uma quantidade limitada de mão de obra disponível.
 
-\[
-x_i =
-\begin{cases}
-1, & \text{se o projeto } i \text{ for selecionado} \\
-0, & \text{caso contrário}
-\end{cases}
-\]
+Cada projeto pode ser:
+- selecionado integralmente; ou  
+- não selecionado (não é permitido selecionar frações de projetos).
 
+O objetivo é escolher o subconjunto de projetos que:
+- maximize o retorno total obtido;  
+- sem ultrapassar os limites de capital e de mão de obra disponíveis.
 
-
-### Função Objetivo
-
-
-
-\[
-\max \sum_{i=1}^{n} v_i x_i
-\]
-
-
-
-### Restrições
-
-
-
-\[
-\sum_{i=1}^{n} w_i x_i \leq B
-\]
-
-
-
-
-
-\[
-\sum_{i=1}^{n} a_i x_i \leq L
-\]
-
-
-
----
+Este problema é conhecido como **Problema da Mochila Multidimensional 0–1**, sendo amplamente utilizado em contextos de seleção de investimentos, portfólio de projetos e alocação de recursos escassos.
 
 ## 📊 Dados da Instância
 

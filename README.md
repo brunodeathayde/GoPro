@@ -34,7 +34,7 @@ O projeto GoPro busca atender a essa necessidade, oferecendo um espaço de apren
 
 ## 🎯 Objetivos
 **Objetivo Geral:**  
-Promover a integração entre programação computacional, pesquisa operacional e gestão de operações, por meio de atividades extensionistas que ofereçam aos estudantes da Engenharia de Produção da UFC um espaço de aprendizado ativo e colaborativo.  
+Promover a integração entre programação computacional, pesquisa operacional e gestão de operações, por meio de atividades extensionistas que proporcionem aos estudantes de Engenharia de Produção da UFC e demais interessados um espaço de aprendizado ativo e colaborativo. 
 
 **Objetivos Específicos:**  
 - Desenvolver atividades práticas de modelagem matemática e programação aplicadas à gestão da produção e operações.  

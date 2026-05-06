@@ -42,7 +42,7 @@ Este problema é característico do **Problema de Corte Bidimensional Guilhotina
 
 ---
 
-📊 **Dados da Instância**
+📊 **Dados da Instância (problema real de pequeno porte)**
 
 ### Dimensões das chapas (bins)
 - **2,80 m x 1,80 m**

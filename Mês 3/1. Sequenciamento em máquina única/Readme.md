@@ -10,7 +10,7 @@ O problema consiste em determinar a ordem de execução de tarefas em uma única
 
 🎯 **Enunciado do Problema**
 
-Sequenciar um conjunto de tarefas em uma única máquina de forma a minimizar o atraso máximo (*Lmax*) ou o tempo total de conclusão (*makespan*), respeitando os tempos de processamento e os setups dependentes da sequência.
+Sequenciar um conjunto de tarefas em uma única máquina de forma a minimizar o tempo total de conclusão (*makespan*), considerando os tempos de processamento e os *setups* dependentes da sequência.
 
 ---
 

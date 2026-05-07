@@ -86,6 +86,14 @@ Este problema é conhecido como **Problema da Mochila Multidimensional 0–1**, 
 
 ---
 
+## 🎥 Vídeo explicativo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/76B8lVqQPFM/maxresdefault.jpg)](https://youtu.be/76B8lVqQPFM?si=af_JMaD37vRSFyKL)
+
+> *Vídeo apresentando o problema da mochila.*
+
+---
+
 ## 🚀 Possíveis Extensões
 
 * Instâncias maiores (100+ projetos)  

@@ -75,6 +75,14 @@ Este problema é característico do **Problema de Corte Unidimensional**, sendo 
 
 ---
 
+## 🎥 Vídeo explicativo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/pKAilLHk7qQ/maxresdefault.jpg)](https://youtu.be/pKAilLHk7qQ)
+
+> *Vídeo demonstrando o processo de corte e otimização das fôrmas.*
+
+---
+
 ## 🚀 Possíveis Extensões
 
 - Minimização explícita do desperdício (loss minimization)  

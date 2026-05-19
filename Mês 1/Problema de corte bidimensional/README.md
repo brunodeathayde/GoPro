@@ -75,5 +75,9 @@ Dissertação de Mestrado, Universidade Federal do Ceará.
   - Geração de colunas  
   - GRASP  
   - Algoritmos Genéticos  
-  - VNS  
+  - VNS
+ 
+  ## 🎥 Vídeo explicativo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/OFm5IVXp7l4/maxresdefault.jpg)](https://youtu.be/OFm5IVXp7l4)
 

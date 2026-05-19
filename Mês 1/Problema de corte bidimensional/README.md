@@ -79,5 +79,5 @@ Dissertação de Mestrado, Universidade Federal do Ceará.
  
   ## 🎥 Vídeo explicativo
 
-[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/OFm5IVXp7l4/maxresdefault.jpg)](https://youtu.be/OFm5IVXp7l4)
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/OFm5IVXp7l4/hqdefault.jpg)](https://www.youtube.com/watch?v=OFm5IVXp7l4)
 

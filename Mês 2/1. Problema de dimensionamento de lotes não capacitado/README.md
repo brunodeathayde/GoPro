@@ -54,4 +54,42 @@ Este problema é uma extensão temporal do problema da mochila e é conhecido po
 | P5  | 10  | 40000      |
 | P5  | 10  | 30000      |
 | P6  | 11  | 9000       |
-| P3  | 12  | 5000      
+| P3  | 12  | 5000       |
+| P4  | 13  | 6000       |
+| P2  | 14  | 4500       |
+| P6  | 15  | 8000       |
+| P1  | 16  | 4000       |
+| P4  | 17  | 12000      |
+| P3  | 18  | 4000       |
+| P5  | 19  | 15000      |
+| P7  | 20  | 10000      |
+| P2  | 21  | 3000       |
+| P3  | 22  | 4500       |
+| P4  | 23  | 5000       |
+| P6  | 24  | 7000       |
+| P5  | 25  | 18000      |
+| P1  | 26  | 3500       |
+| P3  | 27  | 4000       |
+| P7  | 28  | 6000       |
+| P4  | 29  | 4000       |
+| P5  | 30  | 5000       |
+
+---
+
+## 📚 Referências
+
+- Wagner, H. M., Whitin, T. M. (1958). *Dynamic version of the economic lot size model*. Management Science, 5(1), 89–96.  
+- Pochet, Y., Wolsey, L. A. (2006). *Production Planning by Mixed Integer Programming*. Springer.
+
+---
+
+## 🚀 Possíveis Extensões
+
+- Inclusão de **custos de setup** (problema capacitado).  
+- Considerar **múltiplas linhas de produção**.  
+- Integração com **planejamento de transporte**.  
+- Aplicação de heurísticas e metaheurísticas:  
+  - GRASP  
+  - Algoritmos Genéticos  
+  - Simulated Annealing  
+  - Busca Tabu  

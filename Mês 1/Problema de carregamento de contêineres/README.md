@@ -90,4 +90,9 @@ Este problema é uma extensão tridimensional do problema da mochila e é conhec
   - GRASP  
   - Algoritmos Genéticos  
   - Simulated Annealing  
-  - Busca Tabu  
+  - Busca Tabu
+ 
+ ## 🎥 Vídeo explicativo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/EctxWxSvmTc/hqdefault.jpg)](https://youtu.be/EctxWxSvmTc?si=QXESY7w6KPAFckiU)
+

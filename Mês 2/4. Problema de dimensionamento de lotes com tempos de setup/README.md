@@ -65,3 +65,34 @@ Este problema é uma extensão do **Problema de Dimensionamento de Lotes Não Ca
 
 ### Recursos disponíveis por período
 
+[100, 160, 120, 80, 80, 80, 120, 140, 160, 160, 160, 160]
+
+
+### Parâmetros dos produtos
+- Estoque inicial: `[300, 120]`  
+- Estoque final desejado: `[300, 200]`  
+- Custo de setup: `[500, 300]`  
+- Custo de estoque: `[2, 3]`  
+- Consumo de recursos por unidade: `[0.2, 0.4]`  
+
+---
+
+## 📚 Referências
+
+- Wagner, H. M., Whitin, T. M. (1958). *Dynamic version of the economic lot size model*. Management Science, 5(1), 89–96.  
+- Pochet, Y., Wolsey, L. A. (2006). *Production Planning by Mixed Integer Programming*. Springer.  
+
+---
+
+## 🚀 Possíveis Extensões
+
+- Inclusão de restrições de **perecibilidade máxima** dos produtos.  
+- Considerar **múltiplas linhas de produção** com setups distintos.  
+- Integração com **planejamento de transporte**.  
+- Aplicação de heurísticas e metaheurísticas:  
+  - GRASP  
+  - Algoritmos Genéticos  
+  - Simulated Annealing  
+  - Busca Tabu  
+
+

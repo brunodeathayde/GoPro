@@ -83,6 +83,14 @@ Este problema é uma extensão temporal do problema da mochila e é conhecido po
 
 ---
 
+## 🎥 Vídeo explicativo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/nicXkSLiRxw/maxresdefault.jpg)](https://youtu.be/nicXkSLiRxw)
+
+> *Vídeo demonstrando o problema de dimensionamento de lotes não-capacitado.*
+
+---
+
 ## 🚀 Possíveis Extensões
 
 - Inclusão de **custos de setup** (problema capacitado).  

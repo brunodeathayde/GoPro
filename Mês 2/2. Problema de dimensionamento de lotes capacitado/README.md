@@ -124,3 +124,10 @@ Capacidade Máxima por Turno (unidades)
   - Busca Tabu;
   - Colônia de Formigas (Ant Colony);
   - Relax-and-Fix / Fix-and-Optimize.
+
+ ## 🎥 Vídeo explicativo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/FAS56Cz2qnc/maxresdefault.jpg)](https://youtu.be/FAS56Cz2qnc)
+
+> *Vídeo demonstrando o problema de dimensionamento de lotes capacitado.*
+

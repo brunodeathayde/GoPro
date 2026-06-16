@@ -190,3 +190,8 @@ A complexidade combinatória cresce rapidamente com o número de produtos e per�
   * Simulated Annealing;
   * Variable Neighborhood Search.
 
+## 🎥 Vídeo explicativo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/xJWEUqQk6OY/maxresdefault.jpg)](https://youtu.be/xJWEUqQk6OY)
+
+> *Vídeo demonstrando uma instância real do Problema de Dimensionamento de Lotes Capacitado Multi-itens (CLSP) aplicada à indústria de bebidas não alcoólicas.*

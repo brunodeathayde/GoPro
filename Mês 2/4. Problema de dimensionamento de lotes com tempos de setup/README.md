@@ -182,5 +182,5 @@ Classificação do porte da instância
 
 [![Assista ao vídeo no YouTube](https://img.youtube.com/vi/UJBrpC1NvZc/maxresdefault.jpg)](https://youtu.be/UJBrpC1NvZc)
 
-> *Vídeo demonstrando uma instância real do Problema de Dimensionamento de Lotes Capacitado com Preparação de Máquina e Precedência (CSLP com setup carryover), aplicada à indústria de fundição sob-pressão de alumínio para o setor automotivo.*
+> *Vídeo demonstrando uma instância real do Problema de Dimensionamento de Lotes Capacitado com Preparação de Máquina e Precedência (CSLP com setup carryover), aplicada à indústria de fundição sob-pressão de alumínio para o setor automotivo.*  
 

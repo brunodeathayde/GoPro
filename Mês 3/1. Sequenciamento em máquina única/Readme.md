@@ -79,4 +79,10 @@ Este problema é característico do **Single Machine Scheduling Problem**, sendo
   - Regras de despacho (EDD, SPT)  
   - GRASP  
   - Algoritmos Genéticos  
-  - VNS  
+  - VNS
+ 
+## 🎥 Vídeo explicativo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/mhsLeJBjWwE/maxresdefault.jpg)](https://youtu.be/mhsLeJBjWwE)
+
+> *Vídeo demonstrando o Problema de Programação em Máquina Única com Setups Dependentes da Sequência (Single Machine Scheduling Problem – SDST) baseada em uma aplicação real descrita na literatura.*

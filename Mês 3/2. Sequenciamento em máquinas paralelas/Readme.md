@@ -103,3 +103,9 @@ Este problema é característico do **Parallel Machine Scheduling Problem com SD
   - VNS  
   - Tabu Search  
 
+## 🎥 Vídeo explicativo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/MgZnh3oWayg/maxresdefault.jpg)](https://youtu.be/MgZnh3oWayg)
+
+> *Vídeo demonstrando o Problema de Programação em Máquinas Paralelas com Setups Dependentes da Sequência (Parallel Machine Scheduling Problem – SDST) baseado em uma aplicação real de produção de rochas ornamentais.*
+

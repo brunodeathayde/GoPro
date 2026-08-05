@@ -101,3 +101,9 @@ Este problema é característico do **Flow Shop Scheduling Problem**, amplamente
   - VNS  
   - Tabu Search  
 
+## 🎥 Vídeo explicativo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/iYCJ21Xgw6g/maxresdefault.jpg)](https://youtu.be/iYCJ21Xgw6g)
+
+> *Vídeo demonstrando o Problema de Programação Flow Shop (Flow Shop Scheduling Problem – FSSP) baseado em uma aplicação real de produção da indústria têxtil.*
+

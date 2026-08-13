@@ -107,4 +107,11 @@ Este problema é característico do **Job Shop Scheduling Problem**, amplamente 
   - Algoritmos Genéticos  
   - GRASP  
   - VNS  
-  - Tabu Search  
+  - Tabu Search
+ 
+## 🎥 Vídeo explicativo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/qxgAHiFvwiY/maxresdefault.jpg)](https://youtu.be/qxgAHiFvwiY)
+
+> *Vídeo demonstrando o Problema de Programação Job Shop (Job Shop Scheduling Problem – JSSP) baseado em uma aplicação real de produção de acessórios militares.*
+

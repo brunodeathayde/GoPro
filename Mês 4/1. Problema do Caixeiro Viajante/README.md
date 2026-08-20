@@ -69,7 +69,7 @@ Este problema é **NP-difícil**, e para instâncias maiores apenas heurísticas
 
 ## 🎥 Vídeo explicativo
 
-[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/SC5CX8drAtU/maxresdefault.jpg)](https://youtu.be/SC5CX8drAtU)
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/nPo4UnaO9Qs/maxresdefault.jpg)](https://youtu.be/nPo4UnaO9Qs)
 
 > *Vídeo demonstrando o problema do caixeiro viajante e suas aplicações reais.*
 

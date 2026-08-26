@@ -26,6 +26,19 @@ Definir o conjunto ótimo de rotas para uma frota de veículos que parte de um d
 
 Este problema é **NP-difícil**, e para instâncias maiores apenas heurísticas e metaheurísticas são viáveis.
 
+## 📊 Estudo de Caso – Distribuição de Cimento
+
+Estudo de caso do **Problema de Roteamento de Veículos Capacitado (CVRP)**, considerando **200 clientes** e uma frota de **37 caminhões**, cada um com capacidade de **700 sacos de cimento**.
+
+📌 **Objetivo:**  
+Minimizar a distância total percorrida, garantindo que:  
+- Nenhum caminhão ultrapasse sua capacidade máxima.  
+- Todos os clientes sejam atendidos exatamente uma vez.  
+- As entregas sejam realizadas de forma eficiente e dentro das restrições logísticas.  
+
+Este cenário representa um desafio realista de distribuição de cimento a partir de um **depósito central**, exigindo soluções robustas de otimização.
+
+
 ---
 
 🌍 **Dados da Instância**

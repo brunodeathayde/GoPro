@@ -62,4 +62,11 @@ A instância completa está disponível em `data/cvrp_instance.csv`.
 
 - Pham, V. H. S., Nguyen, V. N., & Nguyen Dang, N. T. (2025). *Applying a Hybrid Gray Wolf‐Enhanced Whale Optimization Algorithm to the Capacitated Vehicle Routing Problem*. Journal of Advanced Transportation.  
 - Lawler, E. L., Lenstra, J. K., Rinnooy Kan, A. H. G., Shmoys, D. B. (1985). *The Traveling Salesman Problem: A Guided Tour of Combinatorial Optimization*. Wiley.  
-- Applegate, D. L., Bixby, R. E., Chvátal, V., Cook, W. J. (2006). *The Traveling Salesman Problem: A Computational Study*. Princeton University Press.  
+- Applegate, D. L., Bixby, R. E., Chvátal, V., Cook, W. J. (2006). *The Traveling Salesman Problem: A Computational Study*. Princeton University Press.
+
+## 🎥 Vídeo explicativo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/6GfhbWXkOKk/maxresdefault.jpg)](https://youtu.be/6GfhbWXkOKk)
+
+> *Vídeo demonstrando o problema de roteamento de veículos e suas aplicações reais.*
+

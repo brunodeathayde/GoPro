@@ -30,3 +30,10 @@ Restrições operacionais:
 
 ## 📈 Objetivo
 Minimizar a **distância total percorrida pela frota**, utilizada como proxy do custo operacional (combustível, desgaste, quilometragem e tempo de utilização do ativo).
+
+## 🎥 Vídeo explicativo
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/ASpIdCHe0hM/maxresdefault.jpg)](https://youtu.be/ASpIdCHe0hM)
+
+> *Vídeo demonstrando o problema de roteamento de veículos com janelas de tempo.*
+

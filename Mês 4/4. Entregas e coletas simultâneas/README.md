@@ -85,6 +85,4 @@ sujeito a:
 ---
 ## 🎥 Vídeo explicativo
 
-https://img.youtube.com/vi/WymIjVsPimQ/maxresdefault.jpg](https://youtu.be/WymIjVsPimQ)
-
-> *Vídeo demonstrando a aplicação do Vehicle Routing Problem with Simultaneous Pickup and Delivery (VRPSPD) para o balanceamento operacional de uma frota de patinetes elétricos compartilhados.*
+[![Vídeo demonstrando a aplicação do Vehicle Routing Problem with Simultaneous Pickup and Delivery (VRPSPD) para o balanceamento operacional de uma frota de patinetes elétricos compartilhados.](https://img.youtube.com/vi/WymIjVsPimQ/maxresdefault.jpg)](https://youtu.be/WymIjVsPimQ)

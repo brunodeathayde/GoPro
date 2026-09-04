@@ -84,18 +84,8 @@ sujeito a:
 
 ---
 
-## 🚀 Execução
+## 🎥 Vídeo explicativo
 
-```bash
-pip install -r requirements.txt
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/WymIjVsPimQ/.be/WymIjVsPimQ)
 
-python src/main.py
-```
-
----
-
-## 📚 Referências
-
-- Toth & Vigo (2014). Vehicle Routing Problem.
-- Montané & Galvão (2006). VRPSPD.
-- Koçar & Karaoglan (2016). Simultaneous Pickup and Delivery Routing.
+> *Vídeo demonstrando a aplicação do Vehicle Routing Problem with Simultaneous Pickup and Delivery (VRPSPD) para o balanceamento operacional de uma frota de patinetes elétricos compartilhados.*

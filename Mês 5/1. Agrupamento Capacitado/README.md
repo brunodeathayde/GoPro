@@ -84,4 +84,6 @@ Uma instância real é apresentada nas planilhas ** Alunos.xlsx ** e ** Escolas.
 - Integração de **diferentes turnos escolares** (matutino, vespertino e noturno).
 - Balanceamento da **diversidade socioeconômica** entre as turmas e estabelecimentos.
 
+## 🎥 Vídeo Explicativo
+
 [![Vídeo demonstrando a aplicação do Problema de Agrupamento Capacitado (CCP/SCP) para a alocação eficiente de estudantes em escolas próximas às suas residências.](https://img.youtube.com/vi/qBTvWm4zAT4/maxresdefault.jpg)](https://youtu.be/qBTvWm4zAT4)

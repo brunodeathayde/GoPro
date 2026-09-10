@@ -27,7 +27,20 @@ Por pertencer à classe de problemas **NP-difícil (NP-hard)**, a obtenção de 
 
 ---
 
+Uma instância real é apresentada nas planilhas ** Alunos.xlsx ** e ** Escolas.xlsx **. A estrutura de dados é descrita a seguir.
+
 ## 🌍 Dados da Instância
+
+| Aluno | x | y | série |
+| :---: | :---: | :---: | :---: |
+| 1 | -39,1915 | -3,1224 | 1 |
+| 2 | -38,142 | -4,15335 | 1 |
+| 3 | -38,6469 | -4,04675 | 1 |
+| 4 | -39,0504 | -3,0661 | 1 |
+| 5 | -38,6846 | -3,1638 | 1 |
+| 6 | -38,0232 | -4,0208 | 1 |
+
+
 
 | | Series | | | | | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -39,7 +52,6 @@ Por pertencer à classe de problemas **NP-difícil (NP-hard)**, a obtenção de 
 | 5 | 12 | 10 | 10 | 21 | 25 | 18 | 21 | 12 | 19 | -38,6847 | -3,89245 |
 | 6 | 25 | 12 | 11 | 14 | 24 | 23 | 21 | 19 | 19 | -38,6818 | -3,89891 |
 
-> *Observação: Os dados abaixo representam a estrutura base das entidades do problema (Alunos e Escolas).*
 
 
 

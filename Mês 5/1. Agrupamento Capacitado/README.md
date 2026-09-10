@@ -1,4 +1,4 @@
-# 🏫 Problema de Agrupamento de Estudantes Capacitado (SCP) – Instância Real
+# 🏫 Problema de Agrupamento de Capacitado (SCP) – Instância Real 
 
 ## 📌 Descrição do Problema
 

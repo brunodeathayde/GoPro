@@ -1,6 +1,6 @@
 # ♻️ Problema de Localização de Facilidades Capacitado (SSCFLP) – Localização de Ecopontos em Fortaleza
 
-## 📌Repositório criado pelo Professor Levi Ribeiro de Abreu 
+## Repositório criado pelo Professor Levi Ribeiro de Abreu https://github.com/levirabreu
 
 ## 📌 Descrição do Problema
 

@@ -78,6 +78,6 @@ Devido ao caráter **NP-difícil** e ao atendimento único (*Single-Source*), o 
 
 ---
 
-## 🎥 Vídeo Explicativo e Simulação
+## 🎥 Vídeo Explicativo
 
-[![Vídeo demonstrando o Problema de Localização de Facilidades Capacitado (SSCFLP) aplicado à gestão e alocação de Ecopontos urbanos.](Link do Vídeo no Youtube)](https://youtu.be/XXXXXXXXX)
+[![Vídeo demonstrando a aplicação do Problema de Localização de Facilidades Capacitado com Atendimento Único (SSCFLP) para a alocação e otimização da rede de Ecopontos em Fortaleza.](https://img.youtube.com/vi/bBFECrrgVuw/maxresdefault.jpg)](https://youtu.be/bBFECrrgVuw)

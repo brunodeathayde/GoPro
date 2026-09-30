@@ -77,6 +77,5 @@ Consideração do Comportamento Estocástico da Demanda (variações de tráfego
 
 Flow Refueling Location Model (FRLM): Focar estritamente em garantir que veículos completem viagens inteiras de origem-destino sem ficar sem bateria, em vez de apenas cobertura de nós.
 
-## 🎥 Vídeo Explicativo e Simulação
-
-[![Vídeo demonstrando o Problema de p-Medianas aplicado à gestão de Malha Logística.](Link do Vídeo no Youtube)](#)
+## 🎥 Vídeo Explicativo
+[![Vídeo demonstrando a aplicação do Problema de Localização de Máxima Cobertura (MCLP) para a instalação de eletropostos para veículos elétricos.](https://img.youtube.com/vi/uOY6fgHoK8E/maxresdefault.jpg)](https://youtu.be/uOY6fgHoK8E)

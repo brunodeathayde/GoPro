@@ -68,4 +68,4 @@ Devido à quantidade de atividades, às múltiplas cadeias de precedência paral
 
 ## 🎥 Vídeo Explicativo e Simulação
 
-[![Vídeo demonstrando o Problema de Planejamento de Projetos via PERT/CPM aplicado ao lançamento de uma coleção de verão.](Link do Vídeo no Youtube)](https://youtu.be/XXXXXXXXX)
+[![Vídeo demonstrando o Problema de Planejamento de Projetos via PERT/CPM aplicado ao lançamento de uma coleção de verão.](https://img.youtube.com/vi/VTub_otKCD4/maxresdefault.jpg)](https://youtu.be/VTub_otKCD4)

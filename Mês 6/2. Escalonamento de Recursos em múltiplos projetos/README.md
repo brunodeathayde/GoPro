@@ -113,4 +113,4 @@ Devido ao caráter **NP-difícil** do escalonamento de recursos compartilhados e
 
 ## 🎥 Vídeo Explicativo e Simulação
 
-[![Vídeo demonstrando o Problema de Escalonamento de Recursos em Múltiplos Projetos aplicado à alocação de consultores em contratos de engenharia de produção.](Link do Vídeo no Youtube)](https://youtu.be/XXXXXXXXX)
+[![Vídeo demonstrando o Problema de Escalonamento de Recursos em Múltiplos Projetos aplicado à alocação de consultores em contratos de engenharia de produção.](https://img.youtube.com/vi/jR18PBPLeOc/maxresdefault.jpg)](https://youtu.be/jR18PBPLeOc)

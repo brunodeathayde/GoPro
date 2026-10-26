@@ -90,4 +90,4 @@ Por não possuir restrição de recursos, o PSP admite solução exata em tempo 
 
 ## 🎥 Vídeo Explicativo e Simulação
 
-[![Vídeo demonstrando o Problema de Sequenciamento de Projetos (PSP) aplicado ao cronograma de desenvolvimento de um novo antibiótico.](Link do Vídeo no Youtube)](https://youtu.be/XXXXXXXXX)
+[![Vídeo demonstrando o Problema de Sequenciamento de Projetos (PSP) aplicado ao cronograma de desenvolvimento de um novo antibiótico.](https://img.youtube.com/vi/F5c2wEP5pbI/maxresdefault.jpg)](https://youtu.be/F5c2wEP5pbI)

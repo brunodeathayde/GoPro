@@ -66,5 +66,7 @@ A planilha organiza os dados em quatro abas:
 
 ## 🎥 Vídeo Explicativo e Simulação
 
-![Vídeo demonstrando o Problema de Previsão de Demanda em uma indústria alimentícia – Séries Temporais com ARIMA, SARIMA e suas variações.](Link do Vídeo no Youtube)](https://youtu.be/XXXXXXXXX)
+[![Vídeo demonstrando o Problema de Previsão de Demanda em uma indústria alimentícia – Séries Temporais com ARIMA, SARIMA e suas variações.](https://img.youtube.com/vi/87pqiFUoTHQ/0.jpg)](https://youtu.be/87pqiFUoTHQ)
+
+[Assistir no YouTube: Previsão de Demanda com ARIMA e SARIMA](https://youtu.be/87pqiFUoTHQ)
 

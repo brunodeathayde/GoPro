@@ -104,6 +104,7 @@ Compare também os resultados com uma previsão ingênua sazonal: para cada dia 
 ---
 
 ## 🎥 Material Explicativo e Simulação
+📺 [Assista à explicação no YouTube](https://youtu.be/KX6zLLi32Xo)
 
 Sugestão de atividade: definir períodos de teste e treino, executar o exemplo para as cinco categorias, comparar erros e gráficos do período de teste e produzir uma recomendação de planejamento para as próximas duas semanas. Um recurso de aula ou vídeo pode ser adicionado aqui:
 
